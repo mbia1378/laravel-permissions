@@ -4,10 +4,10 @@
        style="font-size: 16px;">
         <!-- mini logo for sidebar mini 50x50 pixels -->
         <span class="logo-mini">
-           <p>Ums</p></span>
+           <p>Cyrille</p></span>
         <!-- logo for regular state and mobile devices -->
         <span class="logo-lg">
-           <p>UMS</p></span>
+           <p>Cyrille</p></span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -34,7 +34,7 @@
                                       <a href="{{ route('auth.logout') }}"
                                           onclick="event.preventDefault();
                                                    document.getElementById('logout-form').submit();">
-                                          Logout
+                                          Déconnexion
                                       </a>
 
                                       <form id="logout-form" action="{{ route('auth.logout') }}" method="POST" style="display: none;">

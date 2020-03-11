@@ -7,7 +7,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in!
+                    Vous-êtes connecté!
                 </div>
             </div>
         </div>
